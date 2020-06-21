@@ -11,6 +11,7 @@
     <modules>
         <module>tcpdemo</module>
         <module>local-area-network-search</module>
+        <module>local-area-network-search-broadcast</module>
     </modules>
 
 
